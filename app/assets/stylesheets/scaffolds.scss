@@ -1,5 +1,5 @@
 body {
-  background-color: #fff;
+  background-color: #e5d3d4;
   color: #333;
   margin: 33px;
   font-family: verdana, arial, helvetica, sans-serif;
@@ -12,7 +12,7 @@ p, ol, ul, td {
   font-size: 13px;
   line-height: 18px;
 }
-
+#ae8082
 pre {
   background-color: #eee;
   padding: 10px;
@@ -81,4 +81,10 @@ div {
 
 label {
   display: block;
+}
+
+.post{
+  border: 3px solid #ae8082;
+  margin: 3px 0;
+  colortext: #ae8082;
 }
